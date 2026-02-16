@@ -37,5 +37,10 @@ Analyze sales data to identify trends, seasonal effects, and performance of diff
 - ## Cluster Visualization
 
 ![Sales Clusters](sales_clusters.png)
+## 📊 Cluster Visualization (KMeans Scatter Plot)
 
+This scatter plot shows how sales data is grouped into different clusters using the KMeans algorithm.  
+Each color represents a different customer segment based on sales performance.
+
+![Cluster Scatter Plot](cluster_scatter.png)
 
