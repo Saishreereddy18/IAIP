@@ -36,6 +36,6 @@ Analyze sales data to identify trends, seasonal effects, and performance of diff
 - Plots (optional) → Visualizations of clusters
 - ## Cluster Visualization
 
-![Sales Clusters](scatter plot.png)
+![Sales Clusters](sales_clusters.png)
 
 
