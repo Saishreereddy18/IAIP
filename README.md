@@ -34,4 +34,8 @@ Analyze sales data to identify trends, seasonal effects, and performance of diff
 - `main.py` → Python script for analysis
 - `SuperStoreOrders_Clustered.csv` → Final dataset with cluster labels
 - Plots (optional) → Visualizations of clusters
+- ## Cluster Visualization
+
+![Sales Clusters](scatterplot.png)
+
 
